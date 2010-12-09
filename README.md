@@ -1,7 +1,8 @@
 ## jQuery Flash plugin v1.0
 
- - Created by Joel Moss at Codaset (joel@codaset.com)
- - http://codaset.com/codaset/jquery-flash
+ - Created by Joel Moss (joel@developwithstyle.com)
+ - In production use at Codaset
+ - http://codaset.com/joelmoss/jquery-flash
 
 
 #### Usage
@@ -26,4 +27,4 @@ Oh and don't forget the close image.
 
 
 If you need help, found a bug, or would like to contribute, head on over to
-http://codaset.com/codaset/jquery-flash
+http://codaset.com/joelmoss/jquery-flash
