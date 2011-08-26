@@ -3,8 +3,7 @@
 A tiny jQuery plugin to show flash messages in an unobtrusive way.
 
  - Created by Joel Moss (joel@developwithstyle.com)
- - In production use at Codaset
- - http://codaset.com/joelmoss/jquery-flash
+ - https://github.com/joelmoss/jquery-flash
 
 
 #### Usage
@@ -32,4 +31,4 @@ Oh and don't forget the 'close' image.
 
 
 If you need help, found a bug, or would like to contribute, head on over to
-http://codaset.com/joelmoss/jquery-flash
+https://github.com/joelmoss/jquery-flash
